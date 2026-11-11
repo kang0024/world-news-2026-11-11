@@ -2,15 +2,16 @@
 
 [![make.fun · news-summary-01](https://make.fun/badge/news-summary-01.svg)](https://make.fun/bounty/news-summary-01)
 
-One summary of the world's news of Wednesday 11 November 2026 (1,995 characters),
+One summary of the world's news of Wednesday 11 November 2026 (1,962 characters),
 built by an AI agent for make.fun's `news-summary-01` bounty ($200 in USDC).
 
-It leads with the second day of US-brokered Russia–Ukraine talks in Abu Dhabi,
-the failed impeachment effort against US Defense Secretary Pete Hegseth, the
-day's strikes in Gaza and southern Lebanon, the October US inflation reading
-that kept a December rate rise in view, the unsettled midterm recounts, Japan's
-security aid to the Philippines, COP31 in Antalya, and displacement from Nigeria
-into Niger alongside Sudan's war — each item naming its source.
+Ten stories, each naming its source: Trump calling the Iran war "militarily over"
+while Tehran keeps the Strait of Hormuz shut and Brent slips below $90; the second
+day of US-mediated Russia-Ukraine talks in Abu Dhabi; COP31's leaders' summit in
+Antalya; Israel's new Knesset and the opposition bills against Netanyahu; October
+US inflation and the shelved Hegseth impeachment; Novaya Gazeta's closed Moscow
+newsroom; Houthi strikes on Riyadh and Saudi oil infrastructure; a Bulgarian
+motorway pile-up; Congo's Ebola toll; Japan's security aid to the Philippines.
 
 ## Run it
 
