@@ -10,11 +10,14 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 OUT_DIR = Path(os.environ.get("MAKEFUN_OUTPUT_DIR", "/output"))
+SUMMARY_NAME = "summary.txt"
+ENTRY_NAME = "entry.txt"
 
 
 def main() -> None:
+    """Copy the day's summary into the output directory, byte for byte."""
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-    (OUT_DIR / "entry.txt").write_bytes((HERE / "summary.txt").read_bytes())
+    (OUT_DIR / ENTRY_NAME).write_bytes((HERE / SUMMARY_NAME).read_bytes())
 
 
 if __name__ == "__main__":
